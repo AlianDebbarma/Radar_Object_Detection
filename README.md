@@ -22,7 +22,7 @@ This project simulates a basic radar system using Arduino and Processing IDE. It
 
 ## 📷 Demo Image
 ![Radar Demo Image](Radar-Object-Detection/Images/radar2.jpg)
-📽️ [Watch Demo Video]([https://drive.google.com/your-video-link](https://drive.google.com/file/d/1gGQ3WZd-kdcZeF58dnj2iXMMFxcitkBx/view))
+📽️ [Watch Demo Video](https://drive.google.com/file/d/1gGQ3WZd-kdcZeF58dnj2iXMMFxcitkBx/view)
 
 
 ## 📂 How to Run
