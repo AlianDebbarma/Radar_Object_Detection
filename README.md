@@ -20,9 +20,10 @@ This project simulates a basic radar system using Arduino and Processing IDE. It
 - Sends angle and distance via serial to Processing.
 - Displays a real-time radar interface with red blips for objects.
 
-## 📷 Demo
+## 📷 Demo Image
 ![Radar Demo Image](Radar-Object-Detection/Images/radar2.jpg)
-![Radar Demo Video](Radar-Object-Detection/DemoVideo/RadarSysVideo.mp4)
+Demo Video
+![Radar Demo Video]([Radar-Object-Detection/DemoVideo/RadarSysVideo.mp4](https://drive.google.com/file/d/1gGQ3WZd-kdcZeF58dnj2iXMMFxcitkBx/view)
 
 ## 📂 How to Run
 1. Upload the Arduino code (`Radar.ino`) to your board.
